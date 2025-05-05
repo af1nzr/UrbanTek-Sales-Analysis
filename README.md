@@ -2,6 +2,10 @@
 
 This dashboard provides a comprehensive overview of UrbanTek's sales performance, broken down by region, month, product, category, and top customers. It allows for a detailed understanding of revenue generation and customer behavior.
 
+<div align="center">
+  <img src="Assets/Dashboard-Demo.gif" alt="Dashboard Demo" width="700"/>
+</div>
+
 ## Key Performance Highlights
 
 * **Total Revenue:** ₹510.37 Million
